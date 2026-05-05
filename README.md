@@ -34,6 +34,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Anima](https://animaapp.ai) | Roleplay, relationship building, personality growth over time | Freemium | iOS, Android |
 | [Romantic AI](https://romanticai.com) | Romantic companion focus, emotional support, daily check-ins | Freemium | iOS, Android |
 | [Pi (Inflection)](https://pi.ai) | Calmer conversational tone, empathetic listening, no romantic features | Free | iOS, Android, Web |
+| [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 
 ## Character & Roleplay Platforms
@@ -52,6 +53,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
+| [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 
 ## AI Boyfriend/Girlfriend Apps
