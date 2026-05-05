@@ -52,6 +52,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
+| [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 
 ## AI Boyfriend/Girlfriend Apps
 
