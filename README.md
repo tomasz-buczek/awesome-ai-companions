@@ -12,6 +12,7 @@ AI companions are apps designed for ongoing emotional, social, or romantic inter
 
 - [AI Companion Apps](#ai-companion-apps)
 - [Character & Roleplay Platforms](#character--roleplay-platforms)
+- [Anime-Style Companion Apps](#anime-style-companion-apps)
 - [AI Boyfriend/Girlfriend Apps](#ai-boyfriendgirlfriend-apps)
 - [Open Source & Self-Hosted](#open-source--self-hosted)
 - [Frameworks & Tools for Building Companions](#frameworks--tools-for-building-companions)
@@ -28,7 +29,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 |-----|-------------|---------|-----------|
 | [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $19.99/mo (7-day trial) | iOS, Web |
 | [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
-| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $20/mo | iOS, Android, Web |
+| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $14.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
 | [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
 | [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls | $13.99/mo | iOS, Android, Web |
 | [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
@@ -50,13 +51,22 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [JanitorAI](https://janitorai.com) | NSFW-friendly, large character library, multiple LLM backends | Free (BYOK) / Premium | Web |
 | [SpicyChat](https://spicychat.ai) | NSFW focus, character creation tools, persona marketplace | Freemium | Web |
 | [CrushOn.AI](https://crushon.ai) | Unfiltered conversations, character creation, multiple personas | $5.99-$49.99/mo | Web |
-| [Moescape](https://moescape.ai) | Anime-style characters, visual novel format, image generation | Freemium | Web |
+| [EroPlay](https://eroplay.com) | Erotic RP focus, granular tag-based scenario/personality customization, free tier (inconsistent), premium tier (better long multi-turn) | Freemium | Web |
 | [SillyTavern](https://sillytavern.app) | Self-hosted frontend, works with any LLM API, highly customizable | Free (self-hosted) | Web (local) |
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
+
+## Anime-Style Companion Apps
+
+Apps with anime-style characters, visual novel elements, or anime-specific art/roleplay focus.
+
+| App | Key Features | Pricing | Platforms |
+|-----|-------------|---------|-----------|
+| [Get-Waifu](https://get-waifu.com) | Anime characters, community voting for new characters, archetype consistency, memory across RP | Freemium | Android, Web |
+| [Moescape](https://moescape.ai) | Anime-style characters, visual novel format, image generation | Freemium | Web |
 
 ## AI Boyfriend/Girlfriend Apps
 
@@ -67,6 +77,7 @@ Apps specifically marketed for romantic AI relationships.
 | [Kissable](https://kissable.app) | Together photos, video generation, persistent memory, emotional voice | $19.99/mo (7-day trial) | iOS, Web |
 | [Candy AI](https://candy.ai) | Image generation, multiple AI characters, NSFW content | ~$12.99/mo + tokens | Web |
 | [DreamGF](https://dreamgf.ai) | AI girlfriend generator, image/voice, multiple characters | $9.99-$99.99/mo | Web |
+| [GirlfriendGPT](https://girlfriendgpt.com) | Unrestricted NSFW roleplay, custom character creation | Freemium | Web |
 | [Kupid AI](https://kupid.ai) | Pre-made AI characters, photo messaging, voice notes | Freemium | Web |
 | [Nectar AI](https://nectar.ai) | Image generation, roleplay, multiple characters | Freemium | Web |
 | [Muah AI](https://muah.ai) | Unfiltered chat, photo exchange, phone calls | Freemium | Web |
