@@ -12,6 +12,7 @@ AI companions are apps designed for ongoing emotional, social, or romantic inter
 
 - [AI Companion Apps](#ai-companion-apps)
 - [Character & Roleplay Platforms](#character--roleplay-platforms)
+- [Anime-Style Companion Apps](#anime-style-companion-apps)
 - [AI Boyfriend/Girlfriend Apps](#ai-boyfriendgirlfriend-apps)
 - [Open Source & Self-Hosted](#open-source--self-hosted)
 - [Frameworks & Tools for Building Companions](#frameworks--tools-for-building-companions)
@@ -50,13 +51,21 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [JanitorAI](https://janitorai.com) | NSFW-friendly, large character library, multiple LLM backends | Free (BYOK) / Premium | Web |
 | [SpicyChat](https://spicychat.ai) | NSFW focus, character creation tools, persona marketplace | Freemium | Web |
 | [CrushOn.AI](https://crushon.ai) | Unfiltered conversations, character creation, multiple personas | $5.99-$49.99/mo | Web |
-| [Moescape](https://moescape.ai) | Anime-style characters, visual novel format, image generation | Freemium | Web |
 | [SillyTavern](https://sillytavern.app) | Self-hosted frontend, works with any LLM API, highly customizable | Free (self-hosted) | Web (local) |
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
+
+## Anime-Style Companion Apps
+
+Apps with anime-style characters, visual novel elements, or anime-specific art/roleplay focus.
+
+| App | Key Features | Pricing | Platforms |
+|-----|-------------|---------|-----------|
+| [Get-Waifu](https://get-waifu.com) | Anime characters, community voting for new characters, archetype consistency, memory across RP | Freemium | Android, Web |
+| [Moescape](https://moescape.ai) | Anime-style characters, visual novel format, image generation | Freemium | Web |
 
 ## AI Boyfriend/Girlfriend Apps
 
