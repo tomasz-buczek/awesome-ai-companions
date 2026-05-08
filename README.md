@@ -44,19 +44,20 @@ Apps designed around long-running emotional/social interaction with a persistent
 
 Platforms focused on creating, sharing, and chatting with diverse AI characters.
 
-| Platform | Key Features | Pricing | Platforms |
-|----------|-------------|---------|-----------|
-| [Character.AI](https://character.ai) | Largest character library (millions), community-created characters, generous free tier | Free / $20/mo | iOS, Android, Web |
-| [Chai](https://chai.ml) | Swipe-based character discovery, social feed, short-form chat | Freemium | iOS, Android |
-| [JanitorAI](https://janitorai.com) | NSFW-friendly, large character library, multiple LLM backends | Free (BYOK) / Premium | Web |
-| [SpicyChat](https://spicychat.ai) | NSFW focus, character creation tools, persona marketplace | Freemium | Web |
-| [CrushOn.AI](https://crushon.ai) | Unfiltered conversations, character creation, multiple personas | $5.99-$49.99/mo | Web |
-| [SillyTavern](https://sillytavern.app) | Self-hosted frontend, works with any LLM API, highly customizable | Free (self-hosted) | Web (local) |
-| [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
-| [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
-| [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
-| [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
-| [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
+| Platform                                           | Key Features                                                                                                                    | Pricing                      | Platforms              |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------------------|
+| [Character.AI](https://character.ai)               | Largest character library (millions), community-created characters, generous free tier                                          | Free / $20/mo                | iOS, Android, Web      |
+| [Chai](https://chai.ml)                            | Swipe-based character discovery, social feed, short-form chat                                                                   | Freemium                     | iOS, Android           |
+| [CharacterSphere.ai](https://charactersphere.ai/)  | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (Image generation paid) | Web, Discord, Telegram |
+| [JanitorAI](https://janitorai.com)                 | NSFW-friendly, large character library, multiple LLM backends                                                                   | Free (BYOK) / Premium        | Web                    |
+| [SpicyChat](https://spicychat.ai)                  | NSFW focus, character creation tools, persona marketplace                                                                       | Freemium                     | Web                    |
+| [CrushOn.AI](https://crushon.ai)                   | Unfiltered conversations, character creation, multiple personas                                                                 | $5.99-$49.99/mo              | Web                    |
+| [SillyTavern](https://sillytavern.app)             | Self-hosted frontend, works with any LLM API, highly customizable                                                               | Free (self-hosted)           | Web (local)            |
+| [Chub.ai](https://chub.ai)                         | Character card repository, works with SillyTavern/other frontends                                                               | Free / Premium               | Web                    |
+| [Poe](https://poe.com)                             | Multi-model access, custom bot creation, character marketplace                                                                  | Free / $20/mo                | iOS, Android, Web      |
+| [FlowGPT](https://flowgpt.com)                     | Prompt marketplace, roleplay characters, community sharing                                                                      | Freemium                     | Web                    |
+| [HammerAI](https://www.hammerai.com)               | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen       | Free / Paid                  | Web, Desktop           |
+| [RealmsAI](http://realmsai.net)                    | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode                      | Free (70 msg/day) / Premium  | Android, Web           |
 
 ## Anime-Style Companion Apps
 
@@ -128,16 +129,16 @@ For those who want to run their own AI companion locally.
 
 ## How to Choose
 
-| If you want... | Try |
-|----------------|-----|
-| Best memory + media generation | [Kissable](https://kissable.app) |
-| Largest character library (free) | [Character.AI](https://character.ai) |
-| Longest track record + gamification | [Replika](https://replika.com) |
-| Group chats with multiple AIs | [Nomi](https://nomi.ai) |
-| Self-hosted + full control | [SillyTavern](https://sillytavern.app) |
-| NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) |
-| Calmer, non-romantic companion | [Pi](https://pi.ai) |
-| Cheapest paid option | [CrushOn.AI](https://crushon.ai) ($5.99/mo) |
+| If you want... | Try                                                                         |
+|----------------|-----------------------------------------------------------------------------|
+| Best memory + media generation | [Kissable](https://kissable.app)                                            |
+| Largest character library (free) | [Character.AI](https://character.ai)                                        |
+| Longest track record + gamification | [Replika](https://replika.com)                                              |
+| Group chats with multiple AIs | [Nomi](https://nomi.ai)                                                     |
+| Self-hosted + full control | [SillyTavern](https://sillytavern.app)                                      |
+| NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) or [CharacterSphere.ai](https://charactersphere.ai/) |
+| Calmer, non-romantic companion | [Pi](https://pi.ai)                                                         |
+| Cheapest paid option | [CrushOn.AI](https://crushon.ai) ($5.99/mo)                                 |
 
 ---
 
