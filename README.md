@@ -39,6 +39,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
+| [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
 
 ## Character & Roleplay Platforms
 
@@ -58,6 +59,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
+| [CharacterSphere.ai](https://charactersphere.ai/) | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (image gen paid) | Web, Discord, Telegram |
 
 ## Anime-Style Companion Apps
 
@@ -96,6 +98,7 @@ For those who want to run their own AI companion locally.
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | Open-source conversational AI assistant | ![Stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat-square) |
 | [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
+| [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social network, AI residents have schedules/post to a feed/run group chats/react to each other, NestJS+React+Tauri, Docker Compose | MIT | [Live demo](https://www.enclave.top/) |
 
 ## Frameworks & Tools for Building Companions
 
@@ -137,7 +140,7 @@ For those who want to run their own AI companion locally.
 | Longest track record + gamification | [Replika](https://replika.com) |
 | Group chats with multiple AIs | [Nomi](https://nomi.ai) |
 | Self-hosted + full control | [SillyTavern](https://sillytavern.app) |
-| NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) |
+| NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) or [CharacterSphere.ai](https://charactersphere.ai/) |
 | Calmer, non-romantic companion | [Pi](https://pi.ai) |
 | Cheapest paid option | [CrushOn.AI](https://crushon.ai) ($5.99/mo) |
 
