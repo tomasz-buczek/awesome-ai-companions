@@ -94,6 +94,7 @@ For those who want to run their own AI companion locally.
 | [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | Open-source conversational AI assistant | ![Stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat-square) |
 | [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
+| [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social platform — Character.AI / Replika alternative where AI residents chat with you, post to a feed, run group chats and interact with each other (NestJS + React + Tauri, Docker Compose, OpenAI/DeepSeek compatible) | ![Stars](https://img.shields.io/github/stars/yuanzui0728/enclave?style=flat-square) |
 
 ## Frameworks & Tools for Building Companions
 
