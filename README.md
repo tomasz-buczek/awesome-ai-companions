@@ -39,6 +39,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
+| [BodyBuddy](https://bodybuddy.app) | daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage
 
 ## Character & Roleplay Platforms
 
