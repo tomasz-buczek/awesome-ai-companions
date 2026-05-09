@@ -80,6 +80,7 @@ Apps specifically marketed for romantic AI relationships.
 | [Candy AI](https://candy.ai) | Image generation, multiple AI characters, NSFW content | ~$12.99/mo + tokens | Web |
 | [DreamGF](https://dreamgf.ai) | AI girlfriend generator, image/voice, multiple characters | $9.99-$99.99/mo | Web |
 | [GirlfriendGPT](https://girlfriendgpt.com) | Unrestricted NSFW roleplay, custom character creation | Freemium | Web |
+| [DarLink AI](https://darlink.ai) | Image+video generation, voice with lip-sync, realistic and anime styles | $12.99-$49.99/mo | Web |
 | [Kupid AI](https://kupid.ai) | Pre-made AI characters, photo messaging, voice notes | Freemium | Web |
 | [Nectar AI](https://nectar.ai) | Image generation, roleplay, multiple characters | Freemium | Web |
 | [Muah AI](https://muah.ai) | Unfiltered chat, photo exchange, phone calls | Freemium | Web |
