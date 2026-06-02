@@ -27,22 +27,23 @@ Apps designed around long-running emotional/social interaction with a persistent
 
 | App | Key Features | Pricing | Platforms |
 |-----|-------------|---------|-----------|
-| [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $19.99/mo (7-day trial) | iOS, Web |
-| [Reminisce](https://apps.apple.com/us/app/reminisce-ai-companion/id6758736555) | Memorial companion for lost loved ones, voice cloning from recordings, personality recreation from shared memories and videos, phone calls and chat | Freemium | iOS |
-| [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
-| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $14.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
-| [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
-| [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls; free tier has unlimited NSFW chat (no message limits), limited image gen | Free (chat) / $13.99/mo | iOS, Android, Web |
-| [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
 | [Anima](https://animaapp.ai) | Roleplay, relationship building, personality growth over time | Freemium | iOS, Android |
-| [Romantic AI](https://romanticai.com) | Romantic companion focus, emotional support, daily check-ins | Freemium | iOS, Android |
-| [Pi (Inflection)](https://pi.ai) | Calmer conversational tone, empathetic listening, no romantic features | Free | iOS, Android, Web |
-| [PopVid](https://popvid.ai) | AI image/video generation, interactive branching video stories with AI voiceover, community-created scenarios, separate roleplay chat mode | Free | Web |
-| [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
-| [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
-| [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
 | [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
+| [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
+| [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
+| [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls; free tier has unlimited NSFW chat (no message limits), limited image gen | Free (chat) / $13.99/mo | iOS, Android, Web |
+| [Kissable](https://kissable.app) | Persistent memory, photo/video generation, community scenario catalog, emotional voice, scenario creator with lorebook/NPCs | $19.99/mo (7-day trial) | iOS, Web |
+| [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $14.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
+| [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
+| [Pi (Inflection)](https://pi.ai) | Calmer conversational tone, empathetic listening, no romantic features | Free | iOS, Android, Web |
+| [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
+| [PopVid](https://popvid.ai) | AI image/video generation, interactive branching video stories with AI voiceover, community-created scenarios, separate roleplay chat mode | Free | Web |
+| [Reminisce](https://apps.apple.com/us/app/reminisce-ai-companion/id6758736555) | Memorial companion for lost loved ones, voice cloning from recordings, personality recreation from shared memories and videos, phone calls and chat | Freemium | iOS |
+| [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $70/yr | iOS, Android, Web |
+| [Romantic AI](https://romanticai.com) | Romantic companion focus, emotional support, daily check-ins | Freemium | iOS, Android |
+| [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
+| [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 
 ## Character & Roleplay Platforms
 
