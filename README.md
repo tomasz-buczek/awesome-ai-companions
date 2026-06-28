@@ -31,6 +31,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Reminisce](https://apps.apple.com/us/app/reminisce-ai-companion/id6758736555) | Memorial companion for lost loved ones, voice cloning from recordings, personality recreation from shared memories and videos, phone calls and chat | Freemium | iOS |
 | [Replika](https://replika.com) | Gamified relationship progression, AR, coaching activities, long track record | $19.99/mo or $69.99/yr | iOS, Android, Web |
 | [Nomi](https://nomi.ai) | Strong long-term memory, group chats with multiple Nomis, deep personalization | $15.99/mo, $38.99/3mo, $99/yr | iOS, Android, Web |
+| Lovora | AI companions with persistent memory, voice calls, image and video generation, custom character creation | Freemium | Web |
 | [Omoi](https://omoi.ai) | AI agents on Discord, proactive messaging, emotional voice, web search, NSFW-friendly, organizes own long-term memory | $20/mo (7-day trial) | Discord (cross-platform) |
 | [Kindroid](https://kindroid.ai) | Lifelike personalities, selfies, in-app social feed, voice calls; free tier has unlimited NSFW chat (no message limits), limited image gen | Free (chat) / $13.99/mo | iOS, Android, Web |
 | [EVA AI](https://eva.ai) | Dating simulation, multiple characters, personality adaptation | Freemium | iOS, Android |
