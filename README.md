@@ -89,6 +89,7 @@ Apps specifically marketed for romantic AI relationships.
 | [Nectar AI](https://nectar.ai) | Image generation, roleplay, multiple characters | Freemium | Web |
 | [Muah AI](https://muah.ai) | Unfiltered chat, photo exchange, phone calls | Freemium | Web |
 | [iGirl](https://apps.apple.com/app/igirl/id1558955584) | iOS-native, simple chat interface, photo requests | Freemium | iOS |
+| [NaughtyTalk](https://naughtytalk.chat) | 20+ preset characters or custom character builder (looks, personality, scenario), uncensored chat, roleplay, photo generation, proactive messages | Freemium | Telegram, Web |
 
 ## Open Source & Self-Hosted
 
