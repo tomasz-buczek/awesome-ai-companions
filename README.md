@@ -44,6 +44,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
 | [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
 | [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
+| [Ouba](https://ouba.art) | Interactive AI romance where you are the protagonist; the AI writes each turn, branching choices, persistent memory of your relationship and past decisions | Freemium | Web |
 
 ## Character & Roleplay Platforms
 
