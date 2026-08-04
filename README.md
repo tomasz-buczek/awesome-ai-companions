@@ -42,7 +42,8 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
-| [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
+| [dmwithme
+| [Chirp AI](https://ghostinc.online/chirpai) | Productivity companion over SMS: reminders, summaries, follow-ups; read-only links to Google Calendar, Todoist, Notion, Fitbit | 10 free messages, then paid | SMS |](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
 | [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
 
 ## Character & Roleplay Platforms
