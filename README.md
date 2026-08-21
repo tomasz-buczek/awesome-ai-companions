@@ -72,6 +72,7 @@ Apps with anime-style characters, visual novel elements, or anime-specific art/r
 | App | Key Features | Pricing | Platforms |
 |-----|-------------|---------|-----------|
 | [Get-Waifu](https://get-waifu.com) | Anime characters, community voting for new characters, archetype consistency, memory across RP | Freemium | Android, Web |
+| [Local Waifu](https://localwaifu.com) | Runs fully offline on your own machine (bundled local LLM, on-device image generation for selfies, voice), persistent long-term memory, vision, 8-axis personality builder, multiple characters, 7 languages, no account | $20 one-time (7-day free trial) | macOS, Windows |
 | [Moescape](https://moescape.ai) | Anime-style characters, visual novel format, image generation | Freemium | Web |
 
 ## AI Boyfriend/Girlfriend Apps
