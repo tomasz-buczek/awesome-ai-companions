@@ -64,6 +64,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 | [CharacterSphere.ai](https://charactersphere.ai/) | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (image gen paid) | Web, Discord, Telegram |
+| [ChatBrat](https://chatbrat.ai) | 100% SFW character chat, scenario-first roleplay with persistent memory, interactive mystery and social-deduction story games, guest chat with no signup | Freemium | Web |
 
 ## Anime-Style Companion Apps
 
@@ -145,6 +146,7 @@ For those who want to run their own AI companion locally.
 | Longest track record + gamification | [Replika](https://replika.com) |
 | Group chats with multiple AIs | [Nomi](https://nomi.ai) |
 | Self-hosted + full control | [SillyTavern](https://sillytavern.app) |
+| 100% SFW character chat + story games | [ChatBrat](https://chatbrat.ai) |
 | NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) or [CharacterSphere.ai](https://charactersphere.ai/) |
 | Calmer, non-romantic companion | [Pi](https://pi.ai) |
 | Cheapest paid option | [CrushOn.AI](https://crushon.ai) ($5.99/mo) |
