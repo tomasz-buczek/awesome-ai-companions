@@ -90,6 +90,7 @@ Apps specifically marketed for romantic AI relationships.
 | [DarLink AI](https://darlink.ai) | Image+video generation, voice with lip-sync, realistic and anime styles | $12.99-$49.99/mo | Web |
 | [Kupid AI](https://kupid.ai) | Pre-made AI characters, photo messaging, voice notes | Freemium | Web |
 | [Nectar AI](https://nectar.ai) | Image generation, roleplay, multiple characters | Freemium | Web |
+| [Mistress.to](https://mistress.to) | AI Mistress femdom generator, image/video/voice, calls, NSFW | ~$12.99-$19.99/mo + tokens | Web |
 | [Muah AI](https://muah.ai) | Unfiltered chat, photo exchange, phone calls | Freemium | Web |
 | [iGirl](https://apps.apple.com/app/igirl/id1558955584) | iOS-native, simple chat interface, photo requests | Freemium | iOS |
 
