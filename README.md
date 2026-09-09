@@ -52,6 +52,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 
 | Platform | Key Features | Pricing | Platforms |
 |----------|-------------|---------|-----------|
+| [BrowserDreams](https://browserdreams.com) | Rich character library, scenario builder with lorebooks and NPCs, unlimited uncensored free model (no message caps), persistent memory, image generation and voice, custom personas | Free / credits from $4.99 / Plus $11.99/mo | Web |
 | [Character.AI](https://character.ai) | Largest character library (millions), community-created characters, generous free tier | Free / $20/mo | iOS, Android, Web |
 | [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | Free (no sign up) | Web |
 | [Chai](https://chai.ml) | Swipe-based character discovery, social feed, short-form chat | Freemium | iOS, Android |
@@ -67,7 +68,6 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 | [CharacterSphere.ai](https://charactersphere.ai/) | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (image gen paid) | Web, Discord, Telegram |
 | [UnoRouter](https://unorouter.com) | RP chat with characters/personas/lorebooks/presets and SillyTavern card v2/v3 import, branch editing, image/video gen, also a built-in OpenAI-compatible API (212+ models, automatic failover) usable from SillyTavern/Janitor.AI/RisuAI/Chub | Free models / pay-as-you-go credits | Web |
-| [BrowserDreams](https://browserdreams.com) | Rich character library, scenario builder with lorebooks and NPCs, unlimited uncensored free model (no message caps), persistent memory, image generation and voice, custom personas | Free / credits from $4.99 / Plus $11.99/mo | Web |
 
 ## Anime-Style Companion Apps
 
