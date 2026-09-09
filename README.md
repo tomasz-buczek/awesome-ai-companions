@@ -4,7 +4,7 @@
 
 AI companions are apps designed for ongoing emotional, social, or romantic interaction with AI characters. Unlike productivity assistants (ChatGPT, Claude), these focus on persistent relationships, personality, and creative roleplay.
 
-**Last updated: June 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
+**Last updated: September 2026** | [Suggest an addition](https://github.com/tomasz-buczek/awesome-ai-companions/issues/3)
 
 ---
 
@@ -64,6 +64,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
+| [Lunafic](https://lunafic.ai) | Story-first AI characters roleplay, MC Mode (you play one character, the AI plays everyone else), character voice consistency, dual language dialogue (romanized speech with the English translation right under it), layered memories for long turns, world bible (lorebook), in-scene isolation (you decide which characters are talking with you), Professional writing model, multi-character avatar dialogues, instant-chat characters, work for both roleplay and fanfiction (chapters-based roleplay), NSFW friendly, Zero roleplay used for AI training | Freemium (credits) | Web |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 | [CharacterSphere.ai](https://charactersphere.ai/) | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (image gen paid) | Web, Discord, Telegram |
 | [UnoRouter](https://unorouter.com) | RP chat with characters/personas/lorebooks/presets and SillyTavern card v2/v3 import, branch editing, image/video gen, also a built-in OpenAI-compatible API (212+ models, automatic failover) usable from SillyTavern/Janitor.AI/RisuAI/Chub | Free models / pay-as-you-go credits | Web |
@@ -151,6 +152,7 @@ For those who want to run their own AI companion locally.
 | NSFW without restrictions | [JanitorAI](https://janitorai.com) or [SpicyChat](https://spicychat.ai) or [CharacterSphere.ai](https://charactersphere.ai/) |
 | Calmer, non-romantic companion | [Pi](https://pi.ai) |
 | Cheapest paid option | [CrushOn.AI](https://crushon.ai) ($5.99/mo) |
+| Story-first AI characters roleplay with continuous memory | [Lunafic](https://lunafic.ai) |
 
 ---
 
