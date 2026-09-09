@@ -59,6 +59,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [SpicyChat](https://spicychat.ai) | NSFW focus, character creation tools, persona marketplace | Freemium | Web |
 | [CrushOn.AI](https://crushon.ai) | Unfiltered conversations, character creation, multiple personas | $5.99-$49.99/mo | Web |
 | [EroPlay](https://eroplay.com) | Erotic RP focus, granular tag-based scenario/personality customization, free tier (inconsistent), premium tier (better long multi-turn) | Freemium | Web |
+| [Foreverse](https://foreverse.app) | AI novel reader with plot branching, spoiler-free chat with characters from your own books, SillyTavern card import (PNG/JSON/charx), lorebooks, group chat, companion mode with long-term memory | Free + optional credits (BYOK, 60+ providers) | Android |
 | [SillyTavern](https://sillytavern.app) | Self-hosted frontend, works with any LLM API, highly customizable | Free (self-hosted) | Web (local) |
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
