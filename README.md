@@ -99,6 +99,7 @@ For those who want to run their own AI companion locally.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [Scowld](https://github.com/apoorvdarshan/scowld) | Open-source iOS companion with an animated VRM character, voice and text chat, BYOK AI/STT/TTS providers, and optional camera context | ![Stars](https://img.shields.io/github/stars/apoorvdarshan/scowld?style=flat-square) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | Feature-rich chat frontend for LLMs with character cards, group chats, extensions | ![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square) |
 | [TavernAI](https://github.com/TavernAI/TavernAI) | Original tavern-style chat frontend (predecessor to SillyTavern) | ![Stars](https://img.shields.io/github/stars/TavernAI/TavernAI?style=flat-square) |
 | [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio interface for running LLMs locally, supports character chat | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=flat-square) |
