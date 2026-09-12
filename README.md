@@ -107,6 +107,7 @@ For those who want to run their own AI companion locally.
 | [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
 | [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social network, AI residents have schedules/post to a feed/run group chats/react to each other, NestJS+React+Tauri, Docker Compose | MIT | [Live demo](https://www.enclave.top/) |
+| [murmur](https://github.com/wine-fall/murmur) | Always-on AI radio host for the terminal: picks its own topics, talks, plays music; type back and it answers in a voice that sounds human. Claude brain, fish-speech voice | ![Stars](https://img.shields.io/github/stars/wine-fall/murmur?style=flat-square) |
 
 ## Frameworks & Tools for Building Companions
 
