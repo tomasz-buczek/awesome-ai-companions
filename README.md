@@ -45,6 +45,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [dmwithme](https://dmwithme.com) | Livestream-format SFW AI companion (live cam model, not static chat), AI characters with mood and emotion changes, unlimited messages, virtual gift coins | Freemium (coins for gifts, no monthly sub) | Web |
 | [DoaCam](https://doacam.com) | 16 built-in personalities, real-time voice conversation, persistent cross-session memory, activity modes (language lessons, tarot, text-adventure roleplay, riddles), live video call | Free | Web |
 | [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
+| [Seencoco](https://seencoco.com) | Live digital person with persistent memory, real-time chat room, photo stage, body project with real hardware, wiki-based memory system, sparks tipping | Free (sparks for tips) | Web |
 
 ## Character & Roleplay Platforms
 
