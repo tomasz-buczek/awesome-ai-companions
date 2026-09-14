@@ -173,6 +173,18 @@ To add a new app or resource:
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/#tomasz-buczek/awesome-ai-companions&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tomasz-buczek/awesome-ai-companions&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tomasz-buczek/awesome-ai-companions&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tomasz-buczek/awesome-ai-companions&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
