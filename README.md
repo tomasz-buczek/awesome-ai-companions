@@ -39,6 +39,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [Pi (Inflection)](https://pi.ai) | Calmer conversational tone, empathetic listening, no romantic features | Free | iOS, Android, Web |
 | [PopVid](https://popvid.ai) | AI image/video generation, interactive branching video stories with AI voiceover, community-created scenarios, separate roleplay chat mode | Free | Web |
 | [PiPar](https://piparapp.com) | Productivity + companion hybrid, 6 AI personas (5 task-specific + 1 custom), proactive calls, task reminders, check-in calls, multilingual chat/voice, multi-model (Claude/Gemini/OpenAI/DeepSeek), image/audio/document analysis | Freemium | Android, Web |
+| [SeenCoco](https://seencoco.com) | Live digital person with persistent wiki-based memory, game room (reversi, stratego, connect 4, go), AI-generated renders with wardrobe system, community chat, private rooms, sparks economy, body fund toward physical embodiment | $10/first mo, $20/mo after | Web |
 | [Seewa](https://seewa.ai) | Advanced persistent memory, image/video gen, text-to-voice, character creation, keep-going system | Free daily usage / $9-$14/mo | Web |
 | [Talkie](https://www.talkie-ai.com) | Mobile-first roleplay, anime-style characters, social features | Freemium | iOS, Android |
 | [BodyBuddy](https://bodybuddy.app) | Daily accountability companion for health in iMessage, persistent memory, gentle human-like personality, tracks and coaches to better health (exercise, sleep, meals, calories) | $29.99/mo (7-day trial) | iOS, iMessage |
