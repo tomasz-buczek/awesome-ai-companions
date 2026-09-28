@@ -131,6 +131,7 @@ For those who want to run their own AI companion locally.
 - [Why People Form Emotional Bonds with AI](https://www.scientificamerican.com/article/ai-companions-emotional-bonds/) — Scientific American
 - [The Companion Economy](https://a16z.com/ai-companion-economy/) — a16z analysis of the market
 - [How AI Companions Use Memory](https://blog.langchain.dev/memory-for-ai-companions/) — Technical deep dive on memory architectures
+- [2026 AI Video Generator Cost Benchmark](https://www.aisextinghub.com/ai-porn-video-generators#2026-ai-video-generator-cost-benchmark) — Source-backed comparison of monthly allowances, reference-clip costs, clip durations, and estimated cost per video across nine adult AI companion platforms; downloadable CSV included.
 
 ## Communities
 
