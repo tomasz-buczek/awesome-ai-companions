@@ -69,6 +69,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
 | [CharacterSphere.ai](https://charactersphere.ai/) | Community characters, scenarios, persistent character memory, multi-language, NSFW-friendly, character gallery, no message caps | Free (image gen paid) | Web, Discord, Telegram |
 | [UnoRouter](https://unorouter.com) | RP chat with characters/personas/lorebooks/presets and SillyTavern card v2/v3 import, branch editing, image/video gen, also a built-in OpenAI-compatible API (212+ models, automatic failover) usable from SillyTavern/Janitor.AI/RisuAI/Chub | Free models / pay-as-you-go credits | Web |
+| [LiveNovel](https://livenovel.app) | Scenes illustrated as you chat, multi-character group scenes, characters with their own storylines and locations, auto-continue, turn a story into an illustrated novel and sell it in a marketplace, SFW by default with 18+ opt-in | Freemium | Web, Telegram |
 
 ## Anime-Style Companion Apps
 
