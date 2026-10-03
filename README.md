@@ -46,6 +46,7 @@ Apps designed around long-running emotional/social interaction with a persistent
 | [DoaCam](https://doacam.com) | 16 built-in personalities, real-time voice conversation, persistent cross-session memory, activity modes (language lessons, tarot, text-adventure roleplay, riddles), live video call | Free | Web |
 | [Izzy & friends](https://apps.apple.com/us/app/izzy-friends/id6753328759) | Emotional journaling companion, multiple AI friends, voice notes, media recommendations, local event discovery, real-world nudges | $0.99 one-time | iOS |
 | [Ouba](https://ouba.art) | Interactive AI romance where you are the protagonist; the AI writes each turn, branching choices, persistent memory of your relationship and past decisions | Freemium | Web |
+| [Companion by Locked Door](https://companion.lockeddoor.ai) | Personal AI companion for ongoing conversations and relationships; remembers interactions, develops personality, communicates through voice, evolves over continued conversations |  |  |
 
 ## Character & Roleplay Platforms
 
