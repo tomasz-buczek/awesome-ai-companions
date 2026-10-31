@@ -64,6 +64,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | [SillyTavern](https://sillytavern.app) | Self-hosted frontend, works with any LLM API, highly customizable | Free (self-hosted) | Web (local) |
 | [Chub.ai](https://chub.ai) | Character card repository, works with SillyTavern/other frontends | Free / Premium | Web |
 | [Poe](https://poe.com) | Multi-model access, custom bot creation, character marketplace | Free / $20/mo | iOS, Android, Web |
+| [Prelulu](https://prelulu.ai/ai-video-chat) | Real-time AI video calls and AI video chat with characters on a live avatar face you can interrupt mid-sentence, AI roleplay stories whose key beats become video scenes (web), character creator with a face, voice and memory, voice calls and text chat | Freemium | iOS, Android, Web |
 | [FlowGPT](https://flowgpt.com) | Prompt marketplace, roleplay characters, community sharing | Freemium | Web |
 | [HammerAI](https://www.hammerai.com) | Unlimited free messages, PNG card import/export, local LLM support (Ollama), proxy mode for any API, lorebooks, image gen | Free / Paid | Web, Desktop |
 | [RealmsAI](http://realmsai.net) | Multi-character chats (50 chars), multiplayer, custom RAG memory, visual novel elements, director/god mode | Free (70 msg/day) / Premium | Android, Web |
