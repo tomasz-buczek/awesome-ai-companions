@@ -53,6 +53,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 
 | Platform | Key Features | Pricing | Platforms |
 |----------|-------------|---------|-----------|
+| [Amavie](https://amavie.ai) | Characters with lasting memory and a day of their own, voice replies on every plan, roleplay scenes with up to five characters, import from Character.AI exports and character cards | Free / $19/mo | iOS, Android, Web |
 | [Character.AI](https://character.ai) | Largest character library (millions), community-created characters, generous free tier | Free / $20/mo | iOS, Android, Web |
 | [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | Free (no sign up) | Web |
 | [Chai](https://chai.ml) | Swipe-based character discovery, social feed, short-form chat | Freemium | iOS, Android |
@@ -102,6 +103,7 @@ For those who want to run their own AI companion locally.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [Character.AI export viewer](https://github.com/anima-universe/character-ai-export-viewer) | Reads a Character.AI data export, character cards and chat files in the browser, nothing is uploaded | ![Stars](https://img.shields.io/github/stars/anima-universe/character-ai-export-viewer?style=flat-square) |
 | [Scowld](https://github.com/apoorvdarshan/scowld) | Open-source iOS companion with an animated VRM character, voice and text chat, BYOK AI/STT/TTS providers, and optional camera context | ![Stars](https://img.shields.io/github/stars/apoorvdarshan/scowld?style=flat-square) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | Feature-rich chat frontend for LLMs with character cards, group chats, extensions | ![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square) |
 | [TavernAI](https://github.com/TavernAI/TavernAI) | Original tavern-style chat frontend (predecessor to SillyTavern) | ![Stars](https://img.shields.io/github/stars/TavernAI/TavernAI?style=flat-square) |
