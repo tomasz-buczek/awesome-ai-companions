@@ -95,6 +95,7 @@ Apps specifically marketed for romantic AI relationships.
 | [Nectar AI](https://nectar.ai) | Image generation, roleplay, multiple characters | Freemium | Web |
 | [Muah AI](https://muah.ai) | Unfiltered chat, photo exchange, phone calls | Freemium | Web |
 | [iGirl](https://apps.apple.com/app/igirl/id1558955584) | iOS-native, simple chat interface, photo requests | Freemium | iOS |
+| [Sammi: AI Girlfriend](https://sammiai.app/) | Fictional character text chat, voice interaction, character customization, creative roleplay | Free download with in-app purchases | Android |
 
 ## Open Source & Self-Hosted
 
