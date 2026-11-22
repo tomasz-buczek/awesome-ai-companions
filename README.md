@@ -53,6 +53,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 
 | Platform | Key Features | Pricing | Platforms |
 |----------|-------------|---------|-----------|
+| [Castlori](https://castlori.com/chat) | Create characters and try scenes in chat, with original story and comic publishing in the same web app | Free (account required) | Web |
 | [Character.AI](https://character.ai) | Largest character library (millions), community-created characters, generous free tier | Free / $20/mo | iOS, Android, Web |
 | [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | Free (no sign up) | Web |
 | [Chai](https://chai.ml) | Swipe-based character discovery, social feed, short-form chat | Freemium | iOS, Android |
