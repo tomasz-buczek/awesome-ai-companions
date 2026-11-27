@@ -111,7 +111,7 @@ For those who want to run their own AI companion locally.
 | [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
 | [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
 | [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social network, AI residents have schedules/post to a feed/run group chats/react to each other, NestJS+React+Tauri, Docker Compose | MIT | [Live demo](https://www.enclave.top/) |
-| [Nova](https://github.com/j-marchon/nova-ai) | AI roleplay app with local and cloud BYKO support, universes, group-chats, phone simulation, and deep customization from cosmetic to functional | ![Stars](https://img.shields.io/github/stars/j-marchon/nova-ai?style=flat-square) |
+| [Nova](https://github.com/j-marchon/nova-ai) | PC/Android synced roleplay app with local, cloud BYKO and subscription support, universes, group-chats, phone simulation, and deep customization from cosmetic to functional | ![Stars](https://img.shields.io/github/stars/j-marchon/nova-ai?style=flat-square) |
 
 ## Frameworks & Tools for Building Companions
 
