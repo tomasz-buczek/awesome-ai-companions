@@ -102,15 +102,16 @@ For those who want to run their own AI companion locally.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
+| [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
+| [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social network, AI residents have schedules/post to a feed/run group chats/react to each other, NestJS+React+Tauri, Docker Compose | MIT | [Live demo](https://www.enclave.top/) |
+| [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) | Browser-based AI writing/chat with model support | ![Stars](https://img.shields.io/github/stars/KoboldAI/KoboldAI-Client?style=flat-square) |
+| [Nova](https://github.com/j-marchon/nova-ai) | PC/Android synced roleplay app with local, cloud BYKO and subscription support, universes, group-chats, phone simulation, and deep customization from cosmetic to functional | ![Stars](https://img.shields.io/github/stars/j-marchon/nova-ai?style=flat-square) |
+| [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio interface for running LLMs locally, supports character chat | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=flat-square) |
+| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | Open-source conversational AI assistant | ![Stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat-square) |
 | [Scowld](https://github.com/apoorvdarshan/scowld) | Open-source iOS companion with an animated VRM character, voice and text chat, BYOK AI/STT/TTS providers, and optional camera context | ![Stars](https://img.shields.io/github/stars/apoorvdarshan/scowld?style=flat-square) |
 | [SillyTavern](https://github.com/SillyTavern/SillyTavern) | Feature-rich chat frontend for LLMs with character cards, group chats, extensions | ![Stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat-square) |
 | [TavernAI](https://github.com/TavernAI/TavernAI) | Original tavern-style chat frontend (predecessor to SillyTavern) | ![Stars](https://img.shields.io/github/stars/TavernAI/TavernAI?style=flat-square) |
-| [Oobabooga Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) | Gradio interface for running LLMs locally, supports character chat | ![Stars](https://img.shields.io/github/stars/oobabooga/text-generation-webui?style=flat-square) |
-| [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) | Browser-based AI writing/chat with model support | ![Stars](https://img.shields.io/github/stars/KoboldAI/KoboldAI-Client?style=flat-square) |
-| [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) | Open-source conversational AI assistant | ![Stars](https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat-square) |
-| [CharacterGLM](https://github.com/thu-coai/CharacterGLM-6B) | Character roleplay model from Tsinghua University | ![Stars](https://img.shields.io/github/stars/thu-coai/CharacterGLM-6B?style=flat-square) |
-| [AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI VTuber/companion with Live2D, TTS, and LLM integration | ![Stars](https://img.shields.io/github/stars/Ikaros-521/AI-Vtuber?style=flat-square) |
-| [Enclave](https://github.com/yuanzui0728/enclave) | Self-hosted AI social network, AI residents have schedules/post to a feed/run group chats/react to each other, NestJS+React+Tauri, Docker Compose | MIT | [Live demo](https://www.enclave.top/) |
 
 ## Frameworks & Tools for Building Companions
 
